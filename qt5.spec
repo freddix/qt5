@@ -616,6 +616,7 @@ for target in \
     qtgraphicaleffects \
     qtimageformats  \
     qtlocation \
+    qtquick1 \
     qtquickcontrols \
     qtsensors \
     qtsvg \
